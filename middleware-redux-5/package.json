@@ -1,7 +1,6 @@
 {
-  "name": "redux",
+  "name": "middleware-redux-5",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "axios": "^1.9.0",
-    "redux": "^5.0.1",
-    "redux-logger": "^3.0.6",
-    "redux-thunk": "^3.1.0"
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.4.0"
   }
 }
